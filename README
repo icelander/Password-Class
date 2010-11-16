@@ -1,0 +1,1 @@
+This is a basic password class+unit test that implements a salting algorithm I thought up. I'll be adding to it in the future to include hashing and encryption.
